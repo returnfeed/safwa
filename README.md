@@ -12,6 +12,7 @@ safwa/
 │   ├── gui/         # Desktop GUI client
 │   └── cli/         # Desktop TUI/CLI client (Go + Bubbletea)
 ├── extension/       # Browser extension (Firefox/Chrome)
+├── plugins/         # Plugin SDK, docs, templates for community extensions
 ├── playground/      # R&D, experiments, prototypes
 └── docs/            # Architecture, specs, design docs
 ```
