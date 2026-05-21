@@ -4,4 +4,4 @@ Self-hosted personal operating system. One system for mind, time, knowledge, dis
 
 ## License
 
-GNU GPL v2 or later
+GNU GPL v2 and GNU GPL v3
